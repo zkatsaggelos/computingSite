@@ -1,0 +1,23 @@
+body{
+    background-color: palevioletred;
+}
+
+header{
+    background-color: lightgreen;
+}
+
+main{
+    background-color:dodgerblue;
+}
+
+section{
+    background-color:coral;
+}
+
+aside{
+    background-color:rosybrown;
+}
+
+article{
+    background-color:mediumpurple;
+}
